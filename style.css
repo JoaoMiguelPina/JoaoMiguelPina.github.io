@@ -1,12 +1,14 @@
 /* Startpage CSS
  * (inspired) By Dylan Araps */
- @import url('https://fonts.googleapis.com/css?family=Orbitron');
+ /*@import url('https://fonts.googleapis.com/css?family=Orbitron');*/
+ @import url('https://fonts.google.com/specimen/Muli');
+ 
 
 
 
 body {
   /*background-color: #182135;*/
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Muli', sans-serif;
   height: auto;
   min-height: 100vh;
   display: -ms-flexbox;
@@ -24,7 +26,7 @@ input {
   width: 100%;
   padding: 5px 5px 5px 0;
   margin: 5px 5px 5px 0;
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Muli', sans-serif;
   font-size: 50px;
   color: #2980b9;
   background: none;
