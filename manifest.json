@@ -1,6 +1,6 @@
 {
-    "name": "xylophone",
-    "short_name": "xylophone",
+    "name": "flash_chat",
+    "short_name": "flash_chat",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
